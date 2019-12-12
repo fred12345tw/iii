@@ -1,3 +1,5 @@
+
+#12121212
 bonus=int(input())
 earn=int(input())
 bonusearn=int(input())
